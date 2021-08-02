@@ -1,4 +1,6 @@
 Kelompok 6
+Teknik Informatika B
+UAS Praktikum Sistem Terdistribusi
 
 Nama : Nur Kholis Aprianto
 Npm  : 4115505019009
